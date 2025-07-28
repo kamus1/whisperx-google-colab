@@ -1,4 +1,4 @@
-# whisperx-google-colab
+# WhisperX - Google Colab
 Guía de como ejecutar WhisperX en google colab
 
 Este Jupyter Notebook contiene una guía para poder ejecutar el Modelo de WhisperX en Google colab, para luego crear una API desde Google colab utilizando FastAPI, para luego crear un tunel con ngrok para exponer esta API de manera publica.
